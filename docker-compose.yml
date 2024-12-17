@@ -1,6 +1,6 @@
 services:
   db:
-    image: postgres
+    image: chan9708/postgres:latest
     volumes:
       - poll-db-volume:/var/lib/postgresql/data
     environment:
