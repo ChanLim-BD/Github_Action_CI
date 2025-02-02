@@ -11,10 +11,7 @@ Django poll app is a full featured polling app. You have to register in this app
 
 <h2>어플리케이션 설치</h2>
 <pre>터미널에서 다음을 실행</pre>
-<code>git clone https://github.com/go4real/Django-Poll-App</code><br><br>
-
-<h4>다음 url에서 다운로드해서 사용도 가능</h4>
-<code>https://github.com/go4real/Django-Poll-App</code><br>
+<code>git clone https://github.com/ChanLim-BD/Github_Action_CI</code><br><br>
 
 <h2>어플리케이션 실행에 필요한 관련 패키지 설치를 위해 프로젝트 디렉토리에서 다음을 실행</h2>
 <code>pip3 install -r requirements.txt</code><br>
@@ -82,12 +79,6 @@ Django poll app is a full featured polling app. You have to register in this app
 <div align="center">
     <img src="https://user-images.githubusercontent.com/19981097/51410442-dc7d0e80-1b8e-11e9-8f8e-18e6d7bb70fb.png" width="100%"</img> 
 </div>
-
-<h2>Author</h2>
-<blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
-</blockquote>
 
 <div align="center">
     <h3>========Thank You !!!=========</h3>
